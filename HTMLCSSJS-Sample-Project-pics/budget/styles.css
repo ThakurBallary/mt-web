@@ -1,0 +1,57 @@
+.border-green {
+    border: 2px;
+    border-color: green;
+    border-style: solid;
+    border-radius: 4px;
+    padding: 20px;
+}
+.border-red {
+    border: 2px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 4px;
+    padding: 20px;
+}
+.mt-2 {
+    margin-top: 50px;
+}
+.btn-green {
+    border-color: green;
+    border-radius: 4px;
+    border-width: 1px;
+    color: green;
+}
+.btn-red {
+    border-color: red;
+    border-radius: 4px;
+    border-width: 1px;
+    color: red;
+}
+.text-green {
+    color: green;
+    font-size: 20px;
+    margin-top: 8px;
+}
+.text-red {
+    color: red;
+    font-size: 20px;
+    margin-top: 8px;
+}
+.text-sm-red {
+    color: red;
+    font-size: 14px;
+}
+.icon {
+    font-size: 40px;
+    color: #068;
+}
+.input-green {
+    border-color: green;
+    border-radius: 4px;
+    border-width: 1px;
+}
+.input-red {
+    border-color: red;
+    border-radius: 4px;
+    border-width: 1px;
+}
